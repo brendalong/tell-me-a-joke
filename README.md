@@ -10,6 +10,10 @@ Version 1
 ## See other branches for more versions
 1. Branch: keep-joke
    * Tell a joke, see the puchline, request another joke, and keep all viewed jokes.
+1. Branch: crud-joke
+   * Use ReBase with Firebase
+   * Load joke, save joke to personal collection, add joke to personal collection.
+1. Branch: route-joke
 
 
 
