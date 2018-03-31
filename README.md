@@ -8,6 +8,11 @@ Version 1
 * Show punchline with capability to show another
 
 ## See other branches for more versions
+1. Branch: keep-joke
+   * Tell a joke, see the puchline, request another joke, and keep all viewed jokes.
+
+
+
 
 ## Available Scripts
 
