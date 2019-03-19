@@ -81,7 +81,7 @@ class Joke extends Component {
    }
 
    getJoke(){
-      fetch("https://08ad1pao69.execute-api.us-east-1.amazonaws.com/dev/random_joke")
+       fetch("https://official-joke-api.appspot.com/random_joke")
       .then(res => res.json())
       .then(
          (result) => {
@@ -102,6 +102,10 @@ class Joke extends Component {
          }
       )
    }
+
+
+
+
 
    // flow notes
    // component load and should show "loading"
