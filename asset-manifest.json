@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/tell-me-a-joke/static/css/main.f7fc5e3a.chunk.css",
+    "main.js": "/tell-me-a-joke/static/js/main.8a8812d3.chunk.js",
+    "main.js.map": "/tell-me-a-joke/static/js/main.8a8812d3.chunk.js.map",
+    "runtime-main.js": "/tell-me-a-joke/static/js/runtime-main.2890c239.js",
+    "runtime-main.js.map": "/tell-me-a-joke/static/js/runtime-main.2890c239.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/tell-me-a-joke/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.08ea402d.chunk.js": "/tell-me-a-joke/static/js/2.08ea402d.chunk.js",
+    "static/js/2.08ea402d.chunk.js.map": "/tell-me-a-joke/static/js/2.08ea402d.chunk.js.map",
+    "index.html": "/tell-me-a-joke/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/tell-me-a-joke/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.f7fc5e3a.chunk.css.map": "/tell-me-a-joke/static/css/main.f7fc5e3a.chunk.css.map",
+    "static/js/2.08ea402d.chunk.js.LICENSE.txt": "/tell-me-a-joke/static/js/2.08ea402d.chunk.js.LICENSE.txt",
+    "static/media/happy_smiley_face.7d347bbc.png": "/tell-me-a-joke/static/media/happy_smiley_face.7d347bbc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2890c239.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.08ea402d.chunk.js",
+    "static/css/main.f7fc5e3a.chunk.css",
+    "static/js/main.8a8812d3.chunk.js"
+  ]
+}
