@@ -20,7 +20,7 @@ export function JokeSetup({ jokeLoaded, showPunchline, jokeType, setup, handlePu
         <CardTitle>Getting a Joke</CardTitle>}
       {showPunchline ?
         <div> </div>
-        : <Button color="info" onClick={handlePunchline}>TELL ME</Button>
+        : <div><Button color="info" onClick={handlePunchline}>TELL ME</Button></div>
       }
     </Card>
   )

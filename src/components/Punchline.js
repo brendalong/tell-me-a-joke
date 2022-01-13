@@ -6,7 +6,7 @@ import { Button } from 'reactstrap';
 export default function Punchline({ punchline, handleGetAnother, showPunchline }) {
   if (showPunchline) {
     return (
-      <div>
+      <div id="punchline">
         <h5>{punchline} HA! HA! HA!</h5>
         <Button color="secondary" onClick={handleGetAnother}>Show Another</Button>
       </div>

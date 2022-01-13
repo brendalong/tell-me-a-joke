@@ -6,10 +6,10 @@ function CheckError(response) {
   }
 }
 
+
 export const getJoke = () => {
-  return fetch("https://official-joke-api.appspot.com/random_joke")
+  return fetch("https://v2.jokeapi.dev/joke/Any?type=twopart&safe-mode")
     .then(CheckError)
     .then(response => response)
 
 }
-

@@ -58,13 +58,13 @@ export function Joke() {
         <div className="box-container">
           <JokeSetup jokeLoaded={jokeLoaded}
             setup={theJoke.setup}
-            jokeType={theJoke.type}
+            jokeType={theJoke.category}
             showPunchline={showPunchline}
             handlePunchline={handlePunchline} />
           {showPunchline &&
             <Punchline
               showPunchline={showPunchline}
-              punchline={theJoke.punchline}
+              punchline={theJoke.delivery}
               handleGetAnother={handleGetAnother} />
           }
         </div>
